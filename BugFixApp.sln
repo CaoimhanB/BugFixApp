@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugFixApp", "BugFixApp\BugFixApp.csproj", "{7A71C22D-9312-4E81-8FBA-8C67798763DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A71C22D-9312-4E81-8FBA-8C67798763DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A71C22D-9312-4E81-8FBA-8C67798763DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A71C22D-9312-4E81-8FBA-8C67798763DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A71C22D-9312-4E81-8FBA-8C67798763DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6157FF94-3458-47CC-9F07-7A04D02EDB3C}
+	EndGlobalSection
+EndGlobal
